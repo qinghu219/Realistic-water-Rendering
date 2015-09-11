@@ -1,0 +1,7 @@
+SDL Simple DirectMedia Layer
+OPENGL
+GLSL-vertex shader, fragment shader OpenGL Shading Language #120
+http://www.keithlantz.net/2011/10/ocean-simulation-part-one-using-the-discrete-fourier-transform/
+http://www.keithlantz.net/2011/10/lighting-and-environment-mapping-with-glsl/
+http://antongerdelan.net/opengl/cubemaps.html
+/Users/Wlin/Public/Dropbox/CSCI580/project/skybox

@@ -1,0 +1,8 @@
+1. Copy SDL2.framework SDL2_image.framework to /System/Library/Frameworks/
+2. Open Terminal, go to Folder ocean_public
+3. type “make”
+4. type “demo/*” “*” can be any files in the “demo” directory
+
+
+/Users/Wlin/Public/Dropbox/CSCI580/project/ocean_public
+/Users/Wlin/Documents/study/CSCI580/ocean_public

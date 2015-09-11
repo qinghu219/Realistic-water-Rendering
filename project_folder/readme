@@ -1,0 +1,26 @@
+[how to run]
+1. Copy SDL2.framework SDL2_image.framework to /System/Library/Frameworks/
+2. “brew install glm”
+3. Open Terminal, go to Folder ocean_public
+4. type “make”
+5. type “demo/*” “*” can be any files in the “demo” directory
+
+[keyboard control]
+a: turn on/off rendering ocean
+q: decrease amplitude of the waves
+w: increase amplitude of the waves
+u: moving camera up
+d: moving camera down
+space: moving through current direction
+left,right arrow: rotate view direction
+
+[mouse control]
+rotate view direction
+
+[demos]
+city_em: city scene with original environment mapping (GLSL:textureCube(cur_texture, reflection_vector))
+city_rt: city scene with ray tracing
+nuke_r: nuke scene with only reflection
+nuke_rr: nuke scene with reflection and refraction
+ocean_sky: rendering ocean with reflection, refraction and Phong Shading
+
